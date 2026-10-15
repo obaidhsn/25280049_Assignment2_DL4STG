@@ -1,3 +1,5 @@
 numpy
 torchvision
 torch
+matplotlib
+opencv-python
