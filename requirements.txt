@@ -4,3 +4,4 @@ torch
 matplotlib
 opencv-python
 pandas
+imageio
